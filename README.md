@@ -13,7 +13,7 @@ Projeto contruído em ReactJS onde são feitas reservas de viagem através de um
 • react-icons <br />
 • json-server <br />
 
-### Para testar
+### Para executar a aplicação
 
 ### backend
 • Abra uma janela do prompt separada;
@@ -30,9 +30,18 @@ json-server server.json -p 3333
 • Execute o comando abaixo para rodar o frontend que irá se comunicar com o backend rodando em paralelo:
 
 ```
-npm start
+yarn start
 ```
 
 ### screenshots
 ![Screenshot](screenshot01.png)
 ![Screenshot](screenshot02.png)
+
+### Para executar os testes da aplicação
+• Abra uma janela do prompt separada;
+
+• Execute o comando abaixo para rodar os testes unitários configurados na aplicação:
+
+```
+yarn test
+```
