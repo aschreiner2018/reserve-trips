@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 10
+    },
+    {
+      "id": 4,
+      "amount": 5
+    },
+    {
+      "id": 22,
+      "amount": 3
+    },
+    {
+      "id": 87,
+      "amount": 7
+    },
+    {
+      "id": 38,
+      "amount": 5
+    },
+    {
+      "id": 35,
+      "amount": 3
+    }   
+  ],
+  "trips": [
+    {
+      "id": 1,
+      "title": "Viagem Bonito 7 noites",
+      "status": true,
+      "image": "https://st4.depositphotos.com/6642342/22933/i/450/depositphotos_229332036-stock-photo-bonito-brazil-mar-14th-2018.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Viagem Maceió 5 noites",
+      "status": true,
+      "image": "https://t3.ftcdn.net/jpg/06/02/45/74/360_F_602457485_30yKOr2m99lNNcQDjSunTBcECshlzKpd.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Viagem Manaus 10 noites",
+      "status": true,
+      "image": "https://img.freepik.com/fotos-premium/manaus-brasil-04-de-dezembro-de-2015-passeio-de-balsa-no-mar_474717-118689.jpg"
+    },
+    {
+      "id": 87,
+      "title": "Viagem Salvador 7 noites",
+      "status": true,
+      "image": "https://cdn.pixabay.com/photo/2017/06/07/06/00/el-salvador-2379443_1280.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Viagem Buenos Aires 6 noites",
+      "status": true,
+      "image": "https://vidasemparedes.com.br/wp-content/uploads/2019/09/buenosaires-vidasemparedes-8.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Viagem Santiago 8 noites",
+      "status": true,
+      "image": "https://static.vecteezy.com/ti/fotos-gratis/t2/26423547-cidade-panorama-com-arranha-ceu-edificios-luz-do-dia-fez-de-ai-gerado-gratis-foto.jpg"
+    }
+  ]
+}
